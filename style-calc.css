@@ -1,0 +1,27 @@
+body {
+	font-family: Palatino;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table {
+	border: 7px solid gray;
+}
+
+th {
+	height: 50px;
+	width: 20px;
+	padding: 20px;
+	font-size: 20px;
+	color: DarkSlateGray;
+	background-color: Cornsilk;
+}
+#display {
+	background-color: DarkSeaGreen;
+}
+.button:active {
+	background-color: IndianRed;
+}
